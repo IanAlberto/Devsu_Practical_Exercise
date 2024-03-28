@@ -1,0 +1,11 @@
+For this project I have 3 options to select, but only one file to send and because of the structure of
+the pages,I understood that the best option would be to use cypress since it would allow me to complete 
+this requirement in a more interactive way.
+
+The options chosen:
+
+For End2end: Option 2 with the link: https://www.saucedemo.com/
+
+For the API test: option 1 with the link:
+https://api.demoblaze.com/signup
+https://api.demoblaze.com/login
